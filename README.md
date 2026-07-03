@@ -1,4 +1,4 @@
-# Website Name
+# My Website
 
 A brief description of your website and what it does.
 
